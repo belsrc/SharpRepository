@@ -14,9 +14,4 @@
     <copyright>Copyright 2013</copyright>
     <tags>SharpRepository Repository</tags>
   </metadata>
-  <files>
-	<file src="_nuget\content\config.transform" target="content\app.config.transform"/>
-    <file src="_nuget\content\config.transform" target="content\web.config.transform"/>
-	<file src="_nuget\tools\Install.ps1" target="tools\Install.ps1"/>
-  </files>
 </package>
