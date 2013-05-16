@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>SharpRepository.Repository</id>
-    <version>1.3.2.0</version>
+    <version>0.0.0.0</version>
     <title>SharpRepository</title>
     <authors>Ben Griswold, Jeff Treuting, Fairway Technologies</authors>
     <owners>jtreuting, bgriswold</owners>
@@ -15,8 +15,8 @@
     <tags>SharpRepository Repository</tags>
   </metadata>
   <files>
-	<file src="content\config.transform" target="content\app.config.transform"/>
-    <file src="content\config.transform" target="content\web.config.transform"/>
-	<file src="tools\Install.ps1" target="tools\Install.ps1"/>
+	<file src="_nuget\content\config.transform" target="content\app.config.transform"/>
+    <file src="_nuget\content\config.transform" target="content\web.config.transform"/>
+	<file src="_nuget\tools\Install.ps1" target="tools\Install.ps1"/>
   </files>
 </package>
