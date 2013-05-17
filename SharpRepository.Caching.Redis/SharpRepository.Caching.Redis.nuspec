@@ -14,7 +14,7 @@
     <copyright>Copyright 2013</copyright>
     <tags>SharpRepository Repository Caching Redis</tags>
 	<dependencies>
-      <dependency id="SharpRepository.Repository" version="%Repository.Dependency.Version%" />
+      <dependency id="SharpRepository.Repository" version="{{Repository.Dependency.Version}}" />
     </dependencies>
   </metadata>
   <files>
