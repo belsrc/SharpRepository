@@ -17,7 +17,7 @@ using System.Runtime.InteropServices;
 // and in the AssemblyRef table of any assembly that references it. 
 // Take care when changing the AssemblyVersion as it may impact referencing 
 // assemblies.
-[assembly: AssemblyVersion("1.3")]
+[assembly: AssemblyVersion("0.0")]
 
 // The AssemblyFileVersion is intended to uniquely identify a build of the individual assembly
 // Ideally we would have the build server update this value. This version number is stored 
