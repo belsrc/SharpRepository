@@ -15,7 +15,7 @@
                                RepositoryType.InMemory,
                                RepositoryType.Ef5,
                                RepositoryType.Cache,
-//                               RepositoryType.CouchDb
+                               RepositoryType.CouchDb
                            };
             }
         }
