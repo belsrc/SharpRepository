@@ -14,7 +14,7 @@
     <copyright>Copyright 2013</copyright>
     <tags>SharpRepository Repository IoC Ninject</tags>
 	<dependencies>
-      <dependency id="SharpRepository.Repository" version="1.3.2.0" />
+      <dependency id="SharpRepository.Repository" version="%Repository.Dependency.Version%" />
     </dependencies>
   </metadata>
 </package>
