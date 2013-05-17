@@ -8,10 +8,10 @@
             {
                 return new[]
                            {
-//                               RepositoryType.Dbo4,
-//                               RepositoryType.RavenDb,
+                               RepositoryType.Dbo4,
+                               RepositoryType.RavenDb,
                                RepositoryType.Xml,
-//                               RepositoryType.MongoDb,
+                               RepositoryType.MongoDb,
                                RepositoryType.InMemory,
                                RepositoryType.Ef5,
                                RepositoryType.Cache,
